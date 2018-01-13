@@ -151,3 +151,19 @@ li {
   padding-top: 0.25rem;
   padding-right: 3rem;
 }
+
+/* Footer */
+footer {
+  background-color: azure;
+  display: flex;
+  justify-content:center;
+
+}
+
+.copyright {
+  margin-top:4rem;
+  margin-bottom:4rem;
+  display: flex;
+  align-items: center;
+  width: 100%;
+}
